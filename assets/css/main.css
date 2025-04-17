@@ -3978,13 +3978,13 @@ body.is-mobile #main > header {
 /* Footer */
 
 #footer {
-  padding: 6em 0 4em 0;
+  padding: 2em 0 0.5em 0;
   background-color: #1d242a;
   text-align: center;
 }
 
 #footer .icons {
-  font-size: 1.25em;
+  font-size: 1.2em;
 }
 
 #footer .icons a {
@@ -4001,7 +4001,6 @@ body.is-mobile #main > header {
   letter-spacing: 0.225em;
   list-style: none;
   padding: 0;
-  text-transform: uppercase;
 }
 
 #footer .copyright li {
