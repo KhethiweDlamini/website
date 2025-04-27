@@ -1,1 +1,1 @@
-# Katz-website
+# Khethiwe Dlamini's personal website
