@@ -1,1 +1,1 @@
-# Khethiwe Dlamini's personal website
+# Khethiwe Dlamini's Personal Website
